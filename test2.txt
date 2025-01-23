@@ -1,3 +1,7 @@
 1234567890
 
+<<<<<<< HEAD
 testing started
+=======
+testing started now
+>>>>>>> develop
