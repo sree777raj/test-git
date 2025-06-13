@@ -1,7 +1,9 @@
-1234567890
+123456789
 sdfsdf
-<<<<<<< HEAD
 testing started
-=======
 testing started now
->>>>>>> develop
+
+testing started now we doing the checking
+hdcuiheiceicewiciecewc
+huusvdicdhccjawuduwdbcdkc
+eywigcecew
